@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="ClassProcessing.cs" />
     <Compile Include="FantasticBeastsNotUsed\AthleticAardvark.cs" />
+    <Compile Include="FantasticBeastsNotUsed\ConspicuousCrow.cs" />
     <Compile Include="FantasticBeastsNotUsed\ObedientOwl.cs" />
     <Compile Include="FantasticBeastsNotUsed\PerspicaciousPorcupine.cs" />
     <Compile Include="FantasticBeasts\AbiogeneticTestCase.cs" />
