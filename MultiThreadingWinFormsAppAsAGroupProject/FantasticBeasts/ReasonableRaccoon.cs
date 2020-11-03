@@ -1,7 +1,16 @@
-﻿/*
+﻿/* AUTHORED BY:
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  */
+
+/* COMPLETED BY:
+ * Name: Noah Broyles
+ * Email: broylend@mail.uc.edu
+ * Assignment 07, Contemporary Programming, Fall 2020
+ * Due Date: Thursday, November 5th 2020
+ * Description: Multi Threading Windows Forms app as a group project
+ */
+
 using System;
 
 namespace MultiThreadingWinFormsAppAsAGroupProject
